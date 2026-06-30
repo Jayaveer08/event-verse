@@ -207,7 +207,7 @@ Final Year B.Tech — Computer Science (AI & ML)
 Sreyas Institute of Engineering and Technology, Hyderabad
 
 [![GitHub](https://img.shields.io/badge/GitHub-Jayaveer08-181717?style=flat-square&logo=github)](https://github.com/Jayaveer08)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jayaveer--n-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/jayaveer-nallapati)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jayaveer--nallapati-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/jayaveer-nallapati)
 
 ---
 
